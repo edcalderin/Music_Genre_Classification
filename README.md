@@ -6,5 +6,5 @@ Download dataset from Kaggle: https://www.kaggle.com/datasets/andradaolteanu/gtz
 [![download-1.png](https://i.postimg.cc/nhqGb9dq/download-1.png)](https://postimg.cc/685vCqxQ)
 
 
-* Some evaluation results using Confusion Matrix:  
+* Confusion Matrix and Accuracy were choosen as evaluation metrics:  
 [![download.png](https://i.postimg.cc/j2Vjb23J/download.png)](https://postimg.cc/G8QRPLCc)
