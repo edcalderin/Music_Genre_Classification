@@ -1,2 +1,2 @@
-# Music_Genre_Classification
+# Music Genre Classification
 MIR (Music Information Retrieval) applied to Music Genre Classification
